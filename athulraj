@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Culture</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #FFFFFF;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #f0f8ff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #00008B;
+            text-align: center;
+        }
+        p {
+            color: #333;
+            line-height: 1.6;
+            text-align: justify;
+        }
+        .section {
+            margin: 20px 0;
+        }
+        .image {
+            display: block;
+            margin: 0 auto;
+            width: 100%;
+            max-width: 500px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Exploring Indian Culture</h1>
+    <p>The <b>Culture Of India</b> has been shaped by the long <i>history of india</i>,its unique geography and the absorption of customs,traditions and ideas from some of its neighbours as well as by preserving its ancient heritages,which are formed during the indus valley civilization and evolved further during the <i> vedic age,rise and decline of buddhism,golden age,muslim conquests and european colonization.</i></p>
+    <div class="section">
+		<div class="section">
+        <h2>1. Festivals of India</h2>
+        <center>
+        <img src="C:\Users\unix\Downloads\WhatsApp Image 2024-11-15 at 10.51.15 AM(1).jpeg"width="400"height="200">
+        </center>
+        <p>In India, we have three different types of Festivals. The national Festivals are those days when something remarkable happened that changed the course of history for our country. For instance, 26th January is celebrated as Republic Day. October 2 is Gandhi Jayanti, the birthday of Mahatma Gandhi, the father of the nation. These Festivals are called gazette holidays declared years back. These days, every public and private office celebrates and declares holidays for the employees.Independence Day is celebrated on August 15, 1947. On this day, we received independence from the colonial rule of the British Empire. We celebrate and pay tribute to the revolutionaries who led their lives to make us free from the shackles of British tyranny. Republic Day is celebrated gallantly in New Delhi, our capital. Our defence forces join hands to perform tricks and showcase their power to the public. These Festivals are celebrated across the country.The most prominent religious Festivals that we celebrate are <b>Dussehra, Diwali, Eid-Ul-Fitr, Christmas, Guru Nanak Jayanti, Holi, etc. Dussehra and Diwali</b> are considered to be the prime religious Festivals of India. The states celebrating these Festivals get decorated like a new bride. New colourful dresses and tasty things to eat are the prime attractions for kids. During this time of the year, people of all ages and economic stature unite at a single place to worship the gods and goddesses.Every Indian religious festival has a story behind it. These stories carry a message for all the common men. Most of the Festivals convey the message of peace and the victory of good over evil. Every family prepares delectable preparations and invites guests, relatives and other family members. Families reunite, people enjoy for a few days and then get back with their monotonous lives. They again wait for another year eagerly for the religious Festivals to arrive with the wish to see their loved ones again.Seasonal Festivals generally focus on cultivation or other seasonal phenomena. For example, <b>Onam in Kerala, Pongal in Tamil Nadu, Bihu in Assam,</b> etc are the seasonal examples. India is an agricultural country and these Festivals have immense importance in our history. These Festivals generally depict the advent of new harvests. The farmers worship the Gods and Goddesses of agriculture and harvest, wishing good yield for the next year. The amazing fact is that despite the cultural differences, the seasonal Festivals related to harvests are celebrated at the same time of the year.These Festivals make India a single entity. It is the beauty of diversified unity that no other country can display. The Festivals are the social glues that keep different communities together despite the social differences and make India stronger. This is the legacy of our country that we have been carrying from one generation to the other for ages..</p>
+    </div>
+
+    <div class="section">
+        <h2>2. Traditional Clothing</h2>
+        <p>Men and women in India are draped and wrapped according to tradition, history and location. A dhoti or lungi, which is a loose skirt- or shorts-type wrap for men, is common in rural areas and in high heat, and most often it is worn alone, without a shirt. Women also wore these garments and went topless until Muslim conquerors overtook large parts of India in the 12th century and ordered women to cover their bodies and heads. In urban areas men often wear long, buttoned shirts and loose pants called Sherwanis or kurta pajamas.Women throughout India wear traditional saris made of cotton, silk or factory blends and the 5 to 7 yards (4.57 to 6.4 meters) of fabric that make up a sari are wrapped on the body in countless ways depending on where the wearer lives. Hindu women wear short tops and slips or petticoat-type garments underneath and tuck the ends of fabric into waistbands. Other forms of wrapping leave cloth falling loosely over shoulders or covering the head. Salwar kameez, a pant and long-tailed or to-the-knees shirt outfit made of lightweight fabrics is most common for women in more urban areas..</p>
+    </div>
+
+    <div class="section">
+        <h2>3. Indian Cuisine</h2>
+        <p>Food in India is wide ranging in <b>variety, taste and flavor</b>. Being so diverse geographically, each region has its own cuisine and style of preparation. Indian cuisine, renowned for its exotic gravies seems complicated for any newcomer. <b>The Mughlai cuisine of North differs sharply from the preparations of the south. The Wazwan style of Kashmir is luxurious but the same can be said about Bengal’s Macher Jhol, Rajasthan’s Dal Bati<img src="C:\Users\unix\Downloads\WhatsApp Image 2024-11-15 at 1.35.24 PM.jpeg"align="right"width="220"height="220">, Uttar Pradesh’s Kebabs and Punjab’s Sarson Ka Saag and Makki di Roti</b>. In India, recipes are handed down from generation to generation.
+
+            The unique and strong flavours in Indian cuisine are derived from spices, seasonings and nutritious ingredients such as leafy vegetables, grains, fruits, and legumes. Most of the spices used in Indian cooking were originally chosen thousands of years ago for their medicinal qualities and not for flavor. Many of them such as turmeric, cloves and cardamoms are very antiseptic, others like ginger, are carminative and good for the digestion. All curries are made using a wide variety of spices.
+
+            In Indian cuisine, food is categorized into six tastes – sweet, sour, salty, spicy, bitter and astringent. A well-balanced Indian meal contains all six tastes, not always can this be accomplished. This principle explains the use of numerous spice combinations and depth of flavor in Indian recipes. Side dishes and condiments like chutneys, curries, daals and Indian pickles contribute to and add to the overall flavor and texture of a meal and provide balance needed.</p>
+      
+        
+    </div>
+
+    <div class="section">
+        <h2>4. Art and Architecture</h2>
+        <center>
+       <img src="C:\Users\unix\Downloads\WhatsApp Image 2024-11-15 at 1.35.23 PM(1).jpeg"width="400"height="200">
+       </center>
+        <p>Indian art consists of a variety of art forms, including plastic arts (e.g., pottery sculpture), visual arts (e.g., paintings), and textile arts(e.g., woven silk). Geographically, it spans the entire Indian subcontinent, including what is now India, Pakistan, Bangladesh, and eastern Afghanistan. A strong sense of design is characteristic of Indian art and can be observed in its modern and traditional forms.
+
+The origin of Indian art can be traced to pre-historic Hominid settlements in the <b>3rd millennium BC</b>. On its way to modern times, Indian art has had cultural influences, as well as religious influences such as Hinduism, Buddhism, Jainism and Islam. In spite of this complex mixture of religious traditions, generally, the prevailing artistic style at any time and place has been shared by the major religious groups.
+Architecture is the science of the design of structures or buildings such as houses, places of worship, and office buildings. Architecture is also the profession of an architect. A person must study at an institution of higher education (university) to become an architect.Architecture can be about small designs, such as a garage, or large designs, such as a whole city. Architecture often overlaps with civil engineering, and architects and civil engineers often work together.</p>
+        
+    </div>
+    <div class="section">
+        <h2>5. Epics,Poetry</h2>
+        <p>An epic is a long poetry work that focuses on a hero who has earned many major victories in his life.Epics are built on established traditions that recount the exploits of ancient heroic people.They provide information on a group's, religion's, or nation's history. In India, the term epic conjures up images of the two most famous works, <b>The Ramayana and The Mahabharata</b>.Both of these books were written in ancient Sanskrit. Valmiki, a sage, wrote the Ramayana years ago.It tells the narrative of Lord Ram, who was sentenced to 14 years in exile with his wife and younger brother.The Mahabharata is the Sanskrit language's longest epic. It has around seventy-four thousand poems and is separated into eighteen volumes.It was authored by Vedvyasa, a sage. It sheds light on the old political games that were played.
+There are several lessons to be drawn from these epics. They show us how to be excellent human beings.
+They show us the true value of relationships in life. They describe what love is all about.The Mahabharata, Ramayana, Raghuvamsa, Budhacharita, Shishupala Vadha, Kiratarjuniya, Manimekalai, Silappadikaram, Kumarasambava, and Ramcharitmanas are among the ten most famous epics.All of them have stories that have a very calming effect on life..</p>
+        
+    </div>
+    <div class="section">
+        <h2>6. Music</h2>
+        <p>India is known for its diverse culture, food, dresses, and more. Along with these, it is also known for its music!
+
+Classifying Indian music as a genre is problematic, as there are many forms of Indian music. Many Indian artists have been inspired by<img src="C:\Users\unix\Downloads\WhatsApp Image 2024-11-15 at 1.35.23 PM.jpeg"align="right"width="200"height="200"> many world-renowned musicians and have combined Indian classical music  with genres from the west  like jazz, or R&B, creating some amazing music.
+
+There are two main traditions of <b>classical Indian music – Carnatic music</b> (practiced predominantly in South India) and <b>Hindustani music</b> (found in Northern, Eastern and Western regions of India.<b>Raga or raag</b> is a melodic framework for improvisations or compositions which plays an important role in Indian music theory. It is based on the natural law of vibrations. It expresses the vibrations of the laws of nature. It is a scale with a basic set of notes that a performer/artist uses to create music.  
+
+There are several hundred ragas, each with its own mood and name. There are specific ragas for different times of the day and different seasons. There are morning ragas, afternoon ragas, evening ragas, night ragas, spring ragas, and more.</p>
+         
+       
+    </div>
+    <div class="section">
+        <h2>7. Dance</h2>
+        <p>Dance in India comprises numerous styles of dances, generally classified as classical or folk. As with other aspects of Indian culture, different forms of dances originated in different parts of India, developed according to the local traditions and also imbibed elements from other parts of the country.Sangeet Natak Academy, the national academy for performing arts in India, recognizes eight traditional dances as Indian classical dances,while other sources and scholars recognize more. These have roots in the Sanskrit text <b>Natya Shastra</b>, and the religious performance arts of Hinduism.
+Folk dances are numerous in number and style and vary according to the local tradition of the respective state, ethnic, or geographic region. Contemporary dances include refined and experimental fusions of classical, folk, and Western forms. Dancing traditions of India have influence not only over the dances in the whole of South Asia, but on the dancing forms of Southeast Asia as well. Dances in Indian films, like Bollywood Dance for Hindi films, are often noted for freeform expression of dance and hold a significant presence in the popular culture of the Indian subcontinent.In India, a command over either of Sanskrit, Tamil, Telugu, Oriya, Meitei (Manipuri), Persian, or Arabic, are highly appreciated and respected for learning dances (most significantly Indian Classical Dances) as dancers could have the tools of these languages to go into the primary material texts.</p>
+        
+    </div>
+</div>
+
+</body>
+</html>
